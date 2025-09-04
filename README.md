@@ -1,6 +1,9 @@
 # online-learning 📚🎒
 
 ---
+
+## Platform 💡🔮
+
 coursera:
 [coursera](https://www.coursera.org)
 
@@ -9,9 +12,10 @@ Microsoft Learn:
 
 AWS Skill Builder:
 [aws-skill-builder](https://skillbuilder.aws)
+
 ---
 
-## Resources 🪵🪨
+### Resources 🪵🪨
 
 GitHub Education:
 [github-education](https://education.github.com)
