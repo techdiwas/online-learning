@@ -15,6 +15,9 @@ Microsoft Learn:
 AWS Skill Builder:
 [aws-skill-builder](https://skillbuilder.aws)
 
+Khan Academy:
+[khanacademy](https://www.khanacademy.org)
+
 ---
 
 ---
